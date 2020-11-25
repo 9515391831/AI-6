@@ -23,3 +23,7 @@ Bootstrap aggregating, also called bagging (from bootstrap aggregating), is a ma
 <img src='https://miro.medium.com/max/1156/1*4uA23E47rv82m_myCkp6wQ.png'>
 
 <img src='https://static.packt-cdn.com/products/9781788830577/graphics/ae3f74fc-6b16-4c24-8eb6-f90562052078.png'>
+
+<h3>Boosting</h3>
+
+The term ‘Boosting’ refers to a family of algorithms which converts weak learner to strong learners.
