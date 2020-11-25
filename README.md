@@ -31,3 +31,7 @@ The term ‘Boosting’ refers to a family of algorithms which converts weak lea
 <img src='https://cdn.educba.com/academy/wp-content/uploads/2019/11/bagging-and-boosting.png'>
 
 <img src='https://quantdare.com/wp-content/uploads/2016/04/bb3-800x307.png'>
+
+<h3>Naive Bayes Classifier</h3>
+
+In statistics, Naive Bayes classifiers are a family of simple "probabilistic classifiers" based on applying Bayes' theorem with strong independence assumptions between the features. They are among the simplest Bayesian network models, but coupled with Kernel density estimation, they can achieve higher accuracy levels.
