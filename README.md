@@ -8,4 +8,4 @@ The term "Artificial Neural Network" is derived from Biological neural networks 
 
 <h4>Working of ANN</h4>
 
-<img src='https://static.javatpoint.com/tutorial/artificial-neural-network/images/artificial-neural-network6.png>
+<img src='https://static.javatpoint.com/tutorial/artificial-neural-network/images/artificial-neural-network6.png'>
