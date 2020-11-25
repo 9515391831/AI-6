@@ -35,3 +35,13 @@ The term ‘Boosting’ refers to a family of algorithms which converts weak lea
 <h3>Naive Bayes Classifier</h3>
 
 In statistics, Naive Bayes classifiers are a family of simple "probabilistic classifiers" based on applying Bayes' theorem with strong independence assumptions between the features. They are among the simplest Bayesian network models, but coupled with Kernel density estimation, they can achieve higher accuracy levels.
+
+<h5>Types</h5>
+
+There are three types of Naive Bayes model under the scikit-learn library:
+
+<ul>
+<li><b>Gaussian:</b> It is used in classification and it assumes that features follow a normal distribution.</li>
+<li><b>Multinomial:</b> It is used for discrete counts. ...</li>
+<li><b>Bernoulli:</b> The binomial model is useful if your feature vectors are binary (i.e. zeros and ones).</li>
+</ul>
